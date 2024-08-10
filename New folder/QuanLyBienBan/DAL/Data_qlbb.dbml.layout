@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Data_qlbb">
+  <DataContextMoniker Name="/Data_qlbbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="85057afc-7d32-4e34-92a0-38968cf82b53" absoluteBounds="4.125, 1.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/Data_qlbbDataContext/TaiKhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b2c8f74c-58cf-4b52-b857-2598576334c8" absoluteBounds="4.14, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d575f123-f6a1-4f50-bcdf-0aeede6b1907" absoluteBounds="1.5, 1.125, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/Data_qlbbDataContext/BienBan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cadb7c31-1c3e-4c8d-8e96-74ca0adf5533" absoluteBounds="1.5150000000000001, 1.585, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

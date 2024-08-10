@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="qlbb" Class="Data_qlbbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MSI\SQLEXPRESS;Initial Catalog=qlbb;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="DAL.Properties.Settings" SettingsPropertyName="qlbbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TaiKhoan" Member="TaiKhoans">
+    <Type Name="TaiKhoan">
+      <Column Name="idTaiKhoan" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tenTaiKhoan" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="matKhau" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BienBan" Member="BienBans">
+    <Type Name="BienBan">
+      <Column Name="idBienBan" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tieuDe" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="thoiGian" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="noiDung" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="khoa" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="thanhPhanThamGia" Type="System.String" DbType="NVarChar(4000)" CanBeNull="true" />
+      <Column Name="thongTinNguoiDu" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="thuKi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="chuTri" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ketLuan" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="yKien" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="thoiGianBatDau" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="diaDiem" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="thoiGianKetThuc" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

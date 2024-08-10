@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\QuanLyBienBan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|D:\\New folder\\QuanLyBienBan\\quanlybienban\\frm_timkiembienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|solutionrelative:quanlybienban\\frm_timkiembienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|D:\\New folder\\QuanLyBienBan\\quanlybienban\\frm_timkiembienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|solutionrelative:quanlybienban\\frm_timkiembienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|d:\\new folder\\quanlybienban\\quanlybienban\\rpt_bienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|solutionrelative:quanlybienban\\rpt_bienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|D:\\New folder\\QuanLyBienBan\\quanlybienban\\rpt_bienban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|solutionrelative:quanlybienban\\rpt_bienban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|D:\\New folder\\QuanLyBienBan\\quanlybienban\\frm_timkiembienban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|solutionrelative:quanlybienban\\frm_timkiembienban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|D:\\New folder\\QuanLyBienBan\\quanlybienban\\frm_bienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|solutionrelative:quanlybienban\\frm_bienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|D:\\New folder\\QuanLyBienBan\\quanlybienban\\frm_bienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|solutionrelative:quanlybienban\\frm_bienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|D:\\New folder\\QuanLyBienBan\\quanlybienban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|solutionrelative:quanlybienban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D166AFD8-8F4B-4DC0-A350-ED13088698D9}|DAL\\DAL.csproj|D:\\New folder\\QuanLyBienBan\\DAL\\DAL_BienBan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D166AFD8-8F4B-4DC0-A350-ED13088698D9}|DAL\\DAL.csproj|solutionrelative:DAL\\DAL_BienBan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D166AFD8-8F4B-4DC0-A350-ED13088698D9}|DAL\\DAL.csproj|D:\\New folder\\QuanLyBienBan\\dal\\dal_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D166AFD8-8F4B-4DC0-A350-ED13088698D9}|DAL\\DAL.csproj|solutionrelative:dal\\dal_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40315441-8EFF-4581-AC53-A75CE08E9C64}|DTO\\DTO.csproj|D:\\New folder\\QuanLyBienBan\\DTO\\DTO_BienBan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40315441-8EFF-4581-AC53-A75CE08E9C64}|DTO\\DTO.csproj|solutionrelative:DTO\\DTO_BienBan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D166AFD8-8F4B-4DC0-A350-ED13088698D9}|DAL\\DAL.csproj|D:\\New folder\\QuanLyBienBan\\dal\\data_qlbb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{D166AFD8-8F4B-4DC0-A350-ED13088698D9}|DAL\\DAL.csproj|solutionrelative:dal\\data_qlbb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F2DF4-8B38-4232-8155-CC71E37864D3}|BUS\\BUS.csproj|D:\\New folder\\QuanLyBienBan\\bus\\bus_bienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F2DF4-8B38-4232-8155-CC71E37864D3}|BUS\\BUS.csproj|solutionrelative:bus\\bus_bienban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jackn\\Documents\\Zalo Received Files\\Nhom10\\DoAnDotNet\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_FPT_Shop\\Project_FPT_Shop\\frmDonDatHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hoc Tap\\UD_TT_Summer\\QuanLySieuThi\\QuanLySieuThi\\frmTraCuuSanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jackn\\Documents\\Zalo Received Files\\Nhom10\\DoAnDotNet\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_FPT_Shop\\Project_FPT_Shop\\frmChiNhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3F2DF4-8B38-4232-8155-CC71E37864D3}|BUS\\BUS.csproj|D:\\New folder\\QuanLyBienBan\\BUS\\BUS_TaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3F2DF4-8B38-4232-8155-CC71E37864D3}|BUS\\BUS.csproj|solutionrelative:BUS\\BUS_TaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40315441-8EFF-4581-AC53-A75CE08E9C64}|DTO\\DTO.csproj|D:\\New folder\\QuanLyBienBan\\dto\\dto_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40315441-8EFF-4581-AC53-A75CE08E9C64}|DTO\\DTO.csproj|solutionrelative:dto\\dto_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|D:\\New folder\\QuanLyBienBan\\quanlybienban\\frm_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FCDA70F-5D07-4C45-8D4A-B89C60729DF4}|QuanLyBienBan\\GUI.csproj|solutionrelative:quanlybienban\\frm_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_TimKiemBienBan.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_TimKiemBienBan.cs",
+              "RelativeDocumentMoniker": "QuanLyBienBan\\frm_TimKiemBienBan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_TimKiemBienBan.cs",
+              "RelativeToolTip": "QuanLyBienBan\\frm_TimKiemBienBan.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:27:50.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rpt_BienBan.Designer.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\rpt_BienBan.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBienBan\\rpt_BienBan.Designer.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\rpt_BienBan.Designer.cs",
+              "RelativeToolTip": "QuanLyBienBan\\rpt_BienBan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:17:50.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rpt_BienBan.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\rpt_BienBan.cs",
+              "RelativeDocumentMoniker": "QuanLyBienBan\\rpt_BienBan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\rpt_BienBan.cs [Design]",
+              "RelativeToolTip": "QuanLyBienBan\\rpt_BienBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:16:56.894Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_TimKiemBienBan.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_TimKiemBienBan.cs",
+              "RelativeDocumentMoniker": "QuanLyBienBan\\frm_TimKiemBienBan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_TimKiemBienBan.cs [Design]",
+              "RelativeToolTip": "QuanLyBienBan\\frm_TimKiemBienBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:27:47.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_TimKiemBienBan.Designer.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_TimKiemBienBan.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBienBan\\frm_TimKiemBienBan.Designer.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_TimKiemBienBan.Designer.cs",
+              "RelativeToolTip": "QuanLyBienBan\\frm_TimKiemBienBan.Designer.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAIAwwA0BAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:53:07.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_BienBan.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_BienBan.cs",
+              "RelativeDocumentMoniker": "QuanLyBienBan\\frm_BienBan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_BienBan.cs [Design]",
+              "RelativeToolTip": "QuanLyBienBan\\frm_BienBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:12:53.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_BienBan.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_BienBan.cs",
+              "RelativeDocumentMoniker": "QuanLyBienBan\\frm_BienBan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_BienBan.cs",
+              "RelativeToolTip": "QuanLyBienBan\\frm_BienBan.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAowF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:39:03.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyBienBan\\Program.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\Program.cs",
+              "RelativeToolTip": "QuanLyBienBan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:41:29.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAL_BienBan.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\DAL\\DAL_BienBan.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_BienBan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\DAL\\DAL_BienBan.cs",
+              "RelativeToolTip": "DAL\\DAL_BienBan.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:45:30.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DAL_TaiKhoan.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\DAL\\DAL_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_TaiKhoan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\DAL\\DAL_TaiKhoan.cs",
+              "RelativeToolTip": "DAL\\DAL_TaiKhoan.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:02:12.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DTO_BienBan.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\DTO\\DTO_BienBan.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_BienBan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\DTO\\DTO_BienBan.cs",
+              "RelativeToolTip": "DTO\\DTO_BienBan.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:01:53.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bus_BienBan.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\BUS\\Bus_BienBan.cs",
+              "RelativeDocumentMoniker": "BUS\\Bus_BienBan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\BUS\\Bus_BienBan.cs",
+              "RelativeToolTip": "BUS\\Bus_BienBan.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:17:19.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Data_qlbb.dbml",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\DAL\\Data_qlbb.dbml",
+              "RelativeDocumentMoniker": "DAL\\Data_qlbb.dbml",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\DAL\\Data_qlbb.dbml",
+              "RelativeToolTip": "DAL\\Data_qlbb.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-08-07T08:53:09.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDonDatHang.cs",
+              "DocumentMoniker": "C:\\Users\\jackn\\Documents\\Zalo Received Files\\Nhom10\\DoAnDotNet\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_FPT_Shop\\Project_FPT_Shop\\frmDonDatHang.cs",
+              "ToolTip": "C:\\Users\\jackn\\Documents\\Zalo Received Files\\Nhom10\\DoAnDotNet\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_FPT_Shop\\Project_FPT_Shop\\frmDonDatHang.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAHkAAAAEAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:17:59.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BUS_TaiKhoan.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\BUS\\BUS_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_TaiKhoan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\BUS\\BUS_TaiKhoan.cs",
+              "RelativeToolTip": "BUS\\BUS_TaiKhoan.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:04:54.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmTraCuuSanPham.cs",
+              "DocumentMoniker": "D:\\Hoc Tap\\UD_TT_Summer\\QuanLySieuThi\\QuanLySieuThi\\frmTraCuuSanPham.cs",
+              "RelativeDocumentMoniker": "..\\..\\Hoc Tap\\UD_TT_Summer\\QuanLySieuThi\\QuanLySieuThi\\frmTraCuuSanPham.cs",
+              "ToolTip": "D:\\Hoc Tap\\UD_TT_Summer\\QuanLySieuThi\\QuanLySieuThi\\frmTraCuuSanPham.cs",
+              "RelativeToolTip": "..\\..\\Hoc Tap\\UD_TT_Summer\\QuanLySieuThi\\QuanLySieuThi\\frmTraCuuSanPham.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:45:47.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmChiNhanh.cs",
+              "DocumentMoniker": "C:\\Users\\jackn\\Documents\\Zalo Received Files\\Nhom10\\DoAnDotNet\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_FPT_Shop\\Project_FPT_Shop\\frmChiNhanh.cs",
+              "ToolTip": "C:\\Users\\jackn\\Documents\\Zalo Received Files\\Nhom10\\DoAnDotNet\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_FPT_Shop\\Project_FPT_Shop\\frmChiNhanh.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:01:13.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DTO_TaiKhoan.cs",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\DTO\\DTO_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_TaiKhoan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\DTO\\DTO_TaiKhoan.cs",
+              "RelativeToolTip": "DTO\\DTO_TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:51:41.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frm_TaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyBienBan\\frm_TaiKhoan.cs",
+              "ToolTip": "D:\\New folder\\QuanLyBienBan\\QuanLyBienBan\\frm_TaiKhoan.cs [Design]",
+              "RelativeToolTip": "QuanLyBienBan\\frm_TaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:42:34.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
